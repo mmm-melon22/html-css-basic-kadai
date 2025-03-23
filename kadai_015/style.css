@@ -3,6 +3,7 @@ html{
 }
 body{
     font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
 }
 .blue{
     color: skyblue;
@@ -13,4 +14,10 @@ body{
 h1{
     font-family: "Josefin Sans", sans-serif;
     font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 1px 1px 2px gray;
+    border-bottom: solid 3px rgb(115,115,114);
+}
+.bold{
+    font-weight: bold;
 }
