@@ -86,6 +86,7 @@ h1 {
     margin: 0;
     padding: 60px 0 40px;
     font-size: 34px;
+    font-weight:bold;
  }
  
  #about-flex {
@@ -172,4 +173,13 @@ h1 {
       text-align: center;
       padding-bottom: 40px;
    }
+
+   #about-flex {
+    padding: 10px 20px;
+    justify-content:center;
+   }
+   #about-photo {
+     margin:0;
+   }
+
  }
